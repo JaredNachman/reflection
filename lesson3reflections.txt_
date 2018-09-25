@@ -23,14 +23,20 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It would be useful if you are going offline or if you have to access
+    your project when you do not have access to the remote on github.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You could send all of you information back and forth between email, but 
+    that would take a lot more time and be a lot less organized.  It may require
+    less knowledge to share files, but it would be way more unorganized and you would
+    have to send emails constantly and no mergeing or git features would work.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If your change doensn't work as expected and you make it in the master branch 
+    then you could ruin your whole project but if you use a seprate branch you could
+    test it and then merge it after you are positive it works.  
